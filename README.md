@@ -1,5 +1,8 @@
 # 💫 About Me:
-Atualmente estou cursando o 6° período de Engenharia de Software<br>Busco por uma oportunidade de adentrar na área de programação, tanto no front quanto no back-end<br>Tenho conhecimentos de algumas linguagens e frameworks, como Java, JS, HTML, CSS, React e Node<br>
+💻 Full Stack Developer | 🚀 Apaixonado por tecnologia
+Trabalho com desenvolvimento full stack desde 2025, utilizando React, TypeScript, Java e Spring Boot para criar aplicações robustas e escaláveis. Atualmente, estou desenvolvendo o AviApp, um sistema de automação para granjas de ovos, focado em otimização de produção e geração de relatórios.
+
+📈 Sempre aprendendo e buscando novas tecnologias para entregar as melhores soluções!<br>
 
 
 ## 🌐 Socials:
