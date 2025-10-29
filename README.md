@@ -1,8 +1,6 @@
 # 💫 About Me:
-💻 Full Stack Developer | 🚀 Apaixonado por tecnologia
-Trabalho com desenvolvimento full stack desde 2025, utilizando React, TypeScript, Java e Spring Boot para criar aplicações robustas e escaláveis. Atualmente, estou desenvolvendo o AviApp, um sistema de automação para granjas de ovos, focado em otimização de produção e geração de relatórios.
-
-📈 Sempre aprendendo e buscando novas tecnologias para entregar as melhores soluções!<br>
+💻 Full Stack Developer | 🚀 Software Engineer
+Trabalho com desenvolvimento full stack desde 2025, tendo preferência para desenvolvimento backend, principais linguagems Java e PHP, também possuo conhecimento em frontend com React e seus respectivos framworks<br>
 
 
 ## 🌐 Socials:
