@@ -1,7 +1,7 @@
 # 💫 About Me:
 💻 Full Stack Developer | 🚀 Software Engineer  
-Trabalho com desenvolvimento full stack desde 2025, tendo preferência para desenvolvimento backend, principais linguagens **Java** e **PHP**.  
-Também possuo conhecimento em frontend com **React** e seus respectivos frameworks, como **Next.js**.  
+I've been working as a full stack developer since 2025, — mainly using **Java** and **PHP**.  
+I also have solid experience in frontend development with **React** and its frameworks, such as **Next.js**.  
 <br>
 
 ## 🌐 Socials:
