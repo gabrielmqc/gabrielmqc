@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Full Stack Developer | 🚀 Software Engineer  
 I've been working as a full stack developer since 2025, — mainly using **Java** and **PHP**.  
 I also have solid experience in frontend development with **React** and its frameworks, such as **Next.js**.  
